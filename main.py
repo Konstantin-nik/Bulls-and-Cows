@@ -1,5 +1,4 @@
 
-
 def getBullsAndCows(key, word):
 	bulls = 0
 	cows = 0
